@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 -javascript
 =ES6
 frameworks javascript
+-php frameworks
+laravel
 react
 veiw
 -Struktur Data Dasar
